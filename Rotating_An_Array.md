@@ -9,18 +9,17 @@ The second line of each test case contains N space separated integers denoting a
 Corresponding to each test case, in a new line, print the modified array.
 
 # Constraints:
-# 1 ≤ T ≤ 200
-# 1 ≤ N ≤ 200
-# 1 ≤ A[i] ≤ 1000
+1 ≤ T ≤ 200
+1 ≤ N ≤ 200
+1 ≤ A[i] ≤ 1000
 ```
-# Example:
-# Input
+Example:
+Input
 1
 5
 1 2 3 4 5
 2
-
-# Output
+Output
 3 4 5 1 2
 
 ** For More Input/Output Examples Use 'Expected Output' option **
