@@ -1,5 +1,5 @@
-```
-#Given an array of N size. The task is to rotate array by d elements where d is less than or equal to N.
+
+Given an array of N size. The task is to rotate array by d elements where d is less than or equal to N.
 
 #Input:
 #The first line of input contains a single integer T denoting the number of test cases. 
@@ -13,7 +13,7 @@
 1 ≤ T ≤ 200
 1 ≤ N ≤ 200
 1 ≤ A[i] ≤ 1000
-
+```
 #Example:
 #Input
 1
