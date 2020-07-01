@@ -24,7 +24,7 @@ Output:
 15 3.00
 1956 217.33
 ```
-```java
+``` java
 import java.util.*;
 import java.lang.*;
 import java.io.*;
