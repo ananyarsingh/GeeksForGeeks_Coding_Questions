@@ -24,7 +24,7 @@ Output
 
 ** For More Input/Output Examples Use 'Expected Output' option **
 
-
+```
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -56,3 +56,4 @@ class GFG
 	 }
 	 }
 }
+```
