@@ -24,7 +24,7 @@ Output
 
 ** For More Input/Output Examples Use 'Expected Output' option **
 ```
-# Solution
+# Solution :
 ``` java
 import java.util.*;
 import java.lang.*;
