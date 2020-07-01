@@ -24,6 +24,7 @@ Output:
 15 3.00
 1956 217.33
 ```
+# Solution
 ``` java
 import java.util.*;
 import java.lang.*;
